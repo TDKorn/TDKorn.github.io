@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Hey! I'm Adam 👋
 
-You can use the [editor on GitHub](https://github.com/TDKorn/TDKorn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Adam Korn. I'm a biologist turned computer scientist excited by the potential of biotechnology and neurotechnology to transform the world. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My goal is to help drive innovation and contribute to the advancement of these industries, but I'm open-minded and willing to try almost anything.
 
-### Markdown
+I also really like cats.
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🎓 Background
 
-```markdown
-Syntax highlighted code block
+I began to teach myself Python shortly after completing my B.Sc in Biomedical Science/Neuroscience.
+I fell in love immediately and returned to school as soon as I could for another degree, this time in Computer Science.
+I'm currently in the 2nd year of my CS degree and on track to graduate at the end of 2024.
 
-# Header 1
-## Header 2
-### Header 3
+Seeking an internship for Summer 2023.
 
-- Bulleted
-- List
+### [**📄 View My Resume**](https://tdkorn.github.io/resume/)
+<br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 🤓 Projects
 
-[Link](url) and ![Image](src)
-```
+### [MyMagento](https://github.com/tdkorn/my-magento)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A Python package that wraps and extends the Magento 2 REST API
 
-### Jekyll Themes
+* [Repo](https://github.com/tdkorn/my-magento)
+* [PyPi](https://pypi.org/project/my-magento)
+* Documentation on [ReadTheDocs](https://my-magento.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/my-magento/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TDKorn/TDKorn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### [InstaTweet](https://github.com/tdkorn/insta-tweet)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A Python package that wraps and extends the Magento 2 REST API
+
+* [Repo](https://github.com/tdkorn/insta-tweet)
+* [PyPi](https://pypi.org/project/insta-tweet)
+* Documentation on [ReadTheDocs](https://instatweet.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/insta-tweet/)
+
+
+
+## Where to Reach Me
+
+#### [<img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" width="25px" alt="Email Icon">&ensp;**Email**](mailto:hello@dailykitten.net)
+
+#### [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px" alt="LinkedIn Icon">&ensp;**LinkedIn**](https://www.linkedin.com/in/adam-528-korn)
+
+#### [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25px" alt="Instagram Icon">&ensp;**Instagram**](https://www.instagram.com/the.dailykitten)
