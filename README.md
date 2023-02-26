@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="TzMgZiul4hrxBqIQSTaBkPRbSsMX4_aZp5mdT2JQKTE" />
+<head><meta name="google-site-verification" content="TzMgZiul4hrxBqIQSTaBkPRbSsMX4_aZp5mdT2JQKTE" /></head>
 
 # Hey! I'm Adam 👋
 
