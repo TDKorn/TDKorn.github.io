@@ -34,7 +34,7 @@ A Python package that wraps and extends the Magento 2 REST API
 
 ### [InstaTweet](https://github.com/tdkorn/insta-tweet)
 
-A Python package that wraps and extends the Magento 2 REST API
+Automatically Repost Content From Instagram to Twitter
 
 * [Repo](https://github.com/tdkorn/insta-tweet)
 * [PyPi](https://pypi.org/project/insta-tweet)
