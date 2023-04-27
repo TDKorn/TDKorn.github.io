@@ -40,6 +40,12 @@ A Python package that wraps and extends the Magento 2 REST API
 * [PyPi](https://pypi.org/project/insta-tweet)
 * Documentation on [ReadTheDocs](https://instatweet.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/insta-tweet/)
 
+### [Sphinx GitHub Style](https://github.com/tdkorn/sphinx-github-style)
+
+GitHub source code links and syntax highlighting for Sphinx docs
+* [Repo](https://github.com/tdkorn/sphinx-github-style)
+* [PyPi](https://pypi.org/project/sphinx-github-style)
+* Documentation on [ReadTheDocs](https://sphinx-github-style.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/sphinx-github-style/)
 
 
 ## Where to Reach Me
