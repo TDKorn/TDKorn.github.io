@@ -23,6 +23,16 @@ Seeking an internship for Summer 2023.
 
 ## 🤓 Projects
 
+### [Sphinx README](https://github.com/TDKorn/sphinx-readme)
+
+A Sphinx extension to generate README.rst files that render beautifully on GitHub, PyPi, GitLab, BitBucket
+
+* [Repo](https://github.com/TDKorn/sphinx-readme)
+* [PyPi](https://pypi.org/project/sphinx-readme)
+* Documentation on [ReadTheDocs](https://sphinx-readme.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/sphinx-readme/)
+
+
+
 ### [MyMagento](https://github.com/tdkorn/my-magento)
 
 A Python package that wraps and extends the Magento 2 REST API
