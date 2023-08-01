@@ -9,16 +9,6 @@ My goal is to help drive innovation and contribute to the advancement of these i
 I also really like cats.
 <br>
 
-## 🎓 Background
-
-I began to teach myself Python shortly after completing my B.Sc in Biomedical Science/Neuroscience.
-I fell in love immediately and returned to school as soon as I could for another degree, this time in Computer Science.
-I'm entering the 3nd year of my CS degree and on track to graduate at the end of 2024.
-
-
-### [**📄 View My Resume**](https://tdkorn.github.io/resume/)
-<br>
-
 
 ## 🤓 Projects
 
