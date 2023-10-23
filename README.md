@@ -39,12 +39,22 @@ Automatically Repost Content From Instagram to Twitter
 * [PyPi](https://pypi.org/project/insta-tweet)
 * Documentation on [ReadTheDocs](https://instatweet.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/insta-tweet/)
 
+
 ### [Sphinx GitHub Style](https://github.com/tdkorn/sphinx-github-style)
 
 GitHub source code links and syntax highlighting for Sphinx docs
 * [Repo](https://github.com/tdkorn/sphinx-github-style)
 * [PyPi](https://pypi.org/project/sphinx-github-style)
 * Documentation on [ReadTheDocs](https://sphinx-github-style.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/sphinx-github-style/)
+
+
+### [sphinx-inlinecode](https://github.com/tdkorn/sphinx-inlinecode)
+
+A Sphinx extension to embed source code blocks directly into documentation
+* [Repo](https://github.com/tdkorn/sphinx-inlinecode)
+* [PyPi](https://pypi.org/project/sphinx-inlinecode)
+* Documentation on [ReadTheDocs](https://sphinx-inlinecode.readthedocs.io/) // [GitHub Pages](https://tdkorn.github.io/sphinx-inlinecode/)
+
 
 
 ## Where to Reach Me
